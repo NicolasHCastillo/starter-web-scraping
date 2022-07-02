@@ -1,8 +1,8 @@
-GET http://localhost:3000/example/DRAGONBALL HTTP/1.1
+GET http://web-scraping-nh.herokuapp.com/example/DRAGONBALL HTTP/1.1
 
 ###
 
-POST http://localhost:3000/example/ HTTP/1.1
+POST http://web-scraping-nh.herokuapp.com/example/ HTTP/1.1
 content-type: application/json
 
 {
